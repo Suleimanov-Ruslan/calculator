@@ -65,7 +65,7 @@ while True:
     #print(a * b)
 #elif c == '/':
     #print(a / b)
-elif b == 0:
+#elif b == 0:
     #print('На ноль делить нельзя')
 #else:
 	#print('ошибка')
