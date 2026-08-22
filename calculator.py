@@ -54,3 +54,19 @@ while True:
     elif decision == 'нет':
         break
 
+#a = int(input())
+#c = input()
+#b = int(input())
+#if c == '+':
+    #print(a + b)
+#elif c == '-':
+    #print(a - b)
+#elif c == '*':
+    #print(a * b)
+#elif c == '/':
+    #print(a / b)
+elif b == 0:
+    #print('На ноль делить нельзя')
+#else:
+	#print('ошибка')
+
