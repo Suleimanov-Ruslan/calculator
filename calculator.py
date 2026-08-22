@@ -68,5 +68,5 @@ while True:
 #elif b == 0:
     #print('На ноль делить нельзя')
 #else:
-#print('ошибка')
+    #print('ошибка')
 
